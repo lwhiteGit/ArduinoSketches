@@ -1,1 +1,2 @@
 This is the first line after staged actions
+This is a new line added 
