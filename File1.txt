@@ -5,17 +5,3 @@ This is another test of Python script
 This is another test of Python script
 This is another test of Python script
 This is another test of Python script
-
-This is a new line after commit actions
-This is a new line after commit actions
-This is a new line after commit actions
-This is a new line after commit actions
-This is a new line after commit actions
-This is a new line after commit actions
-This is a new line after commit actions
-This is a new line after commit actions
-This is a new line after commit actions
-This is a new line after commit actions
-This is a new line after commit actions
-This is a new line after commit actions
-This is a new line after commit actions
